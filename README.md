@@ -26,6 +26,8 @@ Utilizo o **NotebookLM** para organizar e aprofundar meus estudos. Acesse os not
 ├── 📁 firewalls/       # Estudos sobre firewalls e segurança de rede
 ├── 📁 ctf/             # Write-ups e soluções de CTFs
 ├── 📁 ferramentas/     # Referências e guias de ferramentas
+├── 📁 relatorios/     # Documentação e registros
+├── 📁 artigos/     # Artigos e estudos interessantes
 └── README.md
 ```
 
@@ -40,6 +42,8 @@ Utilizo o **NotebookLM** para organizar e aprofundar meus estudos. Acesse os not
 - [ ] Criptografia
 - [ ] Análise de Malware
 - [ ] CTF
+- [ ] Relatorios
+- [ ] Artigos
 
 ---
 
