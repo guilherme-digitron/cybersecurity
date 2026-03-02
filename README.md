@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Studies
+# Cybersecurity Studies
 
 > Repositório pessoal dedicado à documentação da minha jornada em Cibersegurança.  
 > Aqui registro anotações, experimentos, referências e aprendizados contínuos.
@@ -11,9 +11,9 @@ Utilizo o **NotebookLM** para organizar e aprofundar meus estudos. Acesse os not
 
 | Tema | Descrição | Link |
 |------|-----------|------|
-| 🌐 Geral | Fundamentos e conceitos gerais de cibersegurança | [Acessar notebook](https://notebooklm.google.com/notebook/34d308c3-d7aa-4c77-9820-bea6da87b1d3) |
-| 🔍 OSINT | Técnicas de inteligência em fontes abertas | [Acessar notebook](https://notebooklm.google.com/notebook/fb05a8b6-5ec4-490a-a70c-8f2114e93892) |
-| 🔥 Firewalls | Conceitos, configurações e boas práticas de firewalls | [Acessar notebook](https://notebooklm.google.com/notebook/db48d652-a89f-444d-996a-dd05ba0f678a) |
+| Geral | Fundamentos e conceitos gerais de cibersegurança | [Acessar notebook](https://notebooklm.google.com/notebook/34d308c3-d7aa-4c77-9820-bea6da87b1d3) |
+| OSINT | Técnicas de inteligência em fontes abertas | [Acessar notebook](https://notebooklm.google.com/notebook/fb05a8b6-5ec4-490a-a70c-8f2114e93892) |
+| Firewalls | Conceitos, configurações e boas práticas de firewalls | [Acessar notebook](https://notebooklm.google.com/notebook/db48d652-a89f-444d-996a-dd05ba0f678a) |
 
 ---
 
