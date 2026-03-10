@@ -1,0 +1,844 @@
+aula
+
+https://www.youtube.com/watch?v=9FXgj2CPdnE
+
+informação para tomada de decizão - > todo mundo usa informação pra trabalhar com toda e qualque coisa, cabe portanto a profissionais de segurança da informação manterem a segurança dessas informaçãoes junto aos demais colaboradores
+
+
+cybersegurança != segurança da informação
+
+pequenas coisa podem destruir toda a segurança da infromação na sua empresa
+
+parte primordial do trabalho e concientizar
+
+ralizar proteção física e dos dados
+
+sua segurança vai ser violada, a questão e quando e se você vai facilitar ou não para os criminosos
+
+como posso me proteger ? seguindo a ISO 27001
+
+ela e a base da privacidade
+
+TODO MUNDO PRECISA DE SEGURANÇA DA INFORMAÇÃO
+
+essencial para profissionais de TI manterem controles para aumento de segurança
+
+profissionais de segurança devem ser multifuncionais, terem o maximo de conhecimento sobre processos e interaçoes de departamentos
+
+
+para que serve a iso 27001 ?
+
+- concientizar
+- melhorar
+- obter a certificaçao
+- criar controles
+- criar politicas e medidas
+-garantir a segurança da informaçao
+
+Integra com o que ?
+
+- ITIL
+- COBIT
+- DEV OPS
+- Tudo o que gere serviço e informaçao no geral
+
+o que tem na iso ?
+
+- controles
+- termos e jargoes
+- guia
+- ajuda a lidar com riscos
+
+conteudo da aula:
+
+- perimetro de seguranca
+- controles
+	- organizacionais
+	- pessoas
+	- fisicos
+	- tecnicos
+a norma explora o espaço e a informaçao simultaneamente
+
+como a segurança e gerenciada
+
+vulnerabilidade gera ameaça
+ameaça gera exposiçao
+exposiçao gera riso
+
+posso ter uma vulnerabilidade mas sem ameaça ou perigo de exposiçao eu nao tenho um risco
+
+vulnerabilidade != risco 
+
+tudo começa na gestao de risco
+
+a bse da segurança da informaçao e o CID, confiabilidade, integridade e Disponibilidade
+
+emaças podem gerar incidentes que geram danos que devem ser tratados com recuperaçao
+
+
+sera necessario controles para reduçao, prevençao, detecçao, repressao, correçao e avaliaçao
+
+termos jargoes e conceitos
+
+- controle de acessos
+	- quem pode acessar determinados arquivos e locais
+	- reguistro de acessos
+	- autenticaçao de acesso
+
+- politica de SI
+	- regras da empresa em relaçao a segurança da imformaçao
+
+- backup
+-criptografia
+-classificaçao
+- continuidade de negocio
+- acordo de nao divulgaçao
+
+o curso oficial e o axin Informatio security manegement
+
+--------------------------------------------------
+
+aula 2
+
+ementa geral
+
+- informaçao e segurança
+- ameaças e riscos
+- controles de segurança
+- legislaçao, regulamentos e normas
+
+tipos de controle(preventivo, detectvo, corretivo)
+
+o que significa qualidade ?
+
+a qualidade vai ser definida pelo negocio "conformidade com os requisitos", entao deve se alinhar o que vai ser aplicado em segurança da informaçao nesse negocio e em seguida aplicar o definido
+
+"satisfazer as necessidades declaradas e implicitas"
+
+como a segurança e gerenciada ?
+
+analisamos se as vulnerabilidades podem nos causar riscos
+
+devemos penssar:
+
+- o que vamos proteger e precisamos proteger
+- priorizar, custos envolvidos, ativos e etc
+- implementar os controles
+
+para analisar riscos:
+
+- identificar requisitos
+- os custos
+- como a gestao determinara as açoes
+
+a analise deve ser feita périodicamente
+devemos lidar sempre com as novasmudanças no ambiente e realidade
+
+para alcançar a segurança devemos aplicar os controles
+
+Arquitetura de informaçao:
+
+- a arte de expressar um modelo ou conceito de informaçao
+- expressados em atividades em sistemas complexos como:
+
+bibliotecas
+gerenciamento de conteudo
+desenvolvimento web
+
+TOGAF
+
+Definição de arquitetura da informaçao
+
+um arquiteto desenha e os demias montam
+
+"a combinaçao de esquemas de organizaçoa rotulagem e navegaçao dentro de um sistema de informaçao"
+
+"o design estrutural de um espaço de informaçao para facilitar a conclusao de tarefas e acessos intuitivos ao conteudo"
+
+"e a planta que os desenvolvedores e designers usam para construir o sistema"
+
+
+visao geral da segurança da informaçao
+
+se concentra na confiabilidade e qualidade da informaçao
+
+se basea no CID
+
+o grande truque e equilibras todos esses requisitos de qualidade
+
+--------------------------------------------------
+
+dia 3
+
+confidencialidade:
+
+controle de acesso
+politica da mesa limpa
+acesso de usuario não autorizado
+segregação de funções 
+separação de ambientes de desenvolvimento
+controle de acesso a computadores e rede
+criptografia de trafego
+
+disponibilidade
+
+backup
+treinamento de funcionarios
+questões habientais
+detecção de intrusão
+liberar apenas so necessario
+monitorar o trafego de dentro e de fora
+configuração adequadro de firewall e roteadores
+SOX - auditabilidade, responsabilidade
+
+integridade
+
+criptografia
+
+--------------------------------------------------
+
+gerenciamento de riscos
+
+matematica da avaliacao de risco
+
+
+avaliaçao de risco = identificaçao do risco + analise de risco + estimativa de riscos
+
+identificaçao de riscos:
+
+	- encontrar, reconhecer e descrever riscos
+	- identificar as fontes, eventos e causas desses riscos
+	- analise de dados historicos e teoricos
+
+analise de riscos:
+	- compreende a natureza do risco
+	- determina o nivel do risco
+	- analisa e determina aestimativa de risco
+
+estimativa de risco:
+
+	atribui valores e probabilidades e consequencias a um risco
+	atribui valores ao impacto de um risco
+
+gerenciamento de riscos:
+
+	analise: ajuda a saber contra o que nos proteger e identificar os risco
+
+	quando uma nova ameaça surge deve ser feito o processo de analise de RISCO
+
+	quando uma ameça ocorre ela se tranforma em incidente
+
+risco:
+
+	efeito de incerteza sore os objetivos
+	probabilidade de uma ameaça se concretizar
+	o objetivo podem ter diferentes aspectos
+
+ameaça:
+
+a causa potencial de um incidente indesejado que pode resultar em danos a um sistema ou organização
+
+as ameaças sao mapeadas na medida do possivel
+verificasse se algo pode ser feito para evitar
+determina o que deve ser feito para corrigir
+
+
+vulnerabilidade:
+
+fragilidade de um sistema ou grupo de ativos que pode ser explorada por uma ou mais ameaças
+
+edxposição:
+
+ficar exposto a uma vulnerabilidade
+ficar exposto a perdas
+um agente ameaçador aproveita as exposições
+somos expostos a todas as ameças que possuimos vulnerabilidades
+
+ciclo do risco:
+
+ameaça surge
+se materealiza como um ataque
+que explora uma vulnerabilidade
+gernado riscos
+que deve superar com contramedidas
+protegendo os ativos
+que estao sujeitos a novas ameaças
+
+meidas de segurança:
+
+usada para mitigar os riscos, significa controle, contramedida
+
+analise de riscos:
+
+define e analisa os riscos
+ajuda a adquirir uma visao e compreençao dos riscos que a oraganazação esta enfrentando
+
+vai incluir a estimativa do risco 
+
+deve ser alinhado com o negocio
+todo risco tem um dono
+tem como proposito:
+
+identificar ativos e valores
+determinar ameaças e vulnerabilidades
+determinar riscos e ameças
+estabelecer equilibrio entre custos e segurança
+
+tipos de analise de risco:
+
+qual o impacto ?
+qual a chance de acontecer ?
+qual a consequencia ?
+
+tipo quantitativo:
+
+baseado noimpacto
+baseado na perda financeira
+baseado na probabilidade da ameaça
+
+tipo qualitativo:
+
+baseado nos cenarios
+baseado nas situaçoes
+baseado nos sentimentos
+
+alasie combinada:
+
+quantitativa e qualitativa
+
+SLE = espectativa de perda unica
+ALE = expectativa de perda anualizada
+EF = valor de exposiçao
+ARO = taxa anual de ocorrencia
+
+EF = % de perda em um ativo sob ameaça
+SLE = Valor do ativo * EF
+ALE = SLE * ARO
+ARO = estimar com base em estudo
+
+medidas:
+
+para ameaças reduçãp e prevençao para nap viarr incidente
+
+no incidente - detecçao e repeçao para nao virar um dano
+
+apos a recuperaçao deve ser aplicada a correçao e feita uma avaliaçao 
+
+
+medidas reativas visam reduzir as ameaças, medidas preventivas visam evitar incidentes
+
+medidas detectivas sao projetadas para detectar incidentes
+
+medidas repressivas sao projetadas para interromper as concequencias de um incidente
+
+medidas corretivas concentram se em reparar os danos causados
+
+dano direto:
+
+dano causado diretamente a empresa
+
+dano indireto:
+
+dano relacionado a um dano direto, como danos a imagem, gastos com outros fatores para recuperação e etc
+
+tipos de estrategias de risco:
+
+assumir o risco
+neutro em relação ao risco
+evitar riscos
+
+------------------------------------------------
+https://www.youtube.com/watch?v=ZSTzq5PI5ZQ
+
+o principal objetivo de um SGSI e o CID, os pilares da norma
+
+27000 - fala de vocabulagio
+27001 - requisitos para SGSI
+27002 - boas praticas de controle
+27005 - gestao de riscos
+
+os controles sao adaptaveis, nao e necessario seguir todos, varia do contexto
+
+ordem da ISO
+contexto da organização
+liderança
+planejamento
+apoio
+operação
+avaliação e desempenho
+melhoria
+
+
+escopo da iso:
+
+estabelecer
+implementar
+manter e melhorar
+
+
+SGSI:
+regras procedimentos
+processos
+praticas
+
+tem como objetivo o CID
+controles:
+
+preventivos
+detectivos
+corretivo
+
+objetivos:
+
+organizacionais
+fisicos
+tecnologicos
+pessoal
+
+os objetivos sao os controles que precisamos desenvolver
+
+
+escopo do SGSI:
+
+limites e aplicabildades
+missaom e valores
+
+para apliar o escopo devemos ter em mente o contexto
+
+fatores externos e internos
+situaçao atual 
+necessidades dos stakes holders
+
+em cima disso desenvolvemos o escopo de SGSI
+
+ciclo PDCA
+
+palnejamento (4,5,6,7)estabelecer
+Do - colocar par funcionar(8)implementar
+check - avaliar e monitorar(9)manter
+melhoris - melhoria contante (10)melhorar
+
+-------------------------------------------------
+
+
+Tratado de Gestão de Segurança da Informação: Análise Exaustiva da Norma ISO/IEC 27001
+A segurança da informação evoluiu de uma disciplina estritamente técnica, confinada aos departamentos de tecnologia, para um pilar central da estratégia organizacional e da governança corporativa no século XXI. Em um cenário global caracterizado por uma interconectividade sem precedentes, o valor do dado e da informação tornou-se o ativo mais crítico para a sobrevivência e competitividade das instituições. A norma ISO/IEC 27001 estabelece o padrão internacional de excelência para a criação, implementação e manutenção de um Sistema de Gestão de Segurança da Informação (SGSI), providenciando uma estrutura que permite às organizações mitigar riscos e proteger sua propriedade intelectual, dados financeiros e informações de terceiros de maneira sistemática e resiliente.   
+
+Gênese e Evolução Histórica da Normatização
+A trajetória da ISO/IEC 27001 reflete a própria evolução da computação e das preocupações com a privacidade. A necessidade de um padrão internacional não surgiu no vácuo; ela é o resultado de décadas de contribuições de milhares de profissionais e especialistas globais que buscaram estabilizar um código de práticas maduro e adaptável.   
+
+As Origens Britânicas e a Transição para a ISO
+O embrião da norma reside em um documento publicado em 1992 por um departamento do governo britânico, focado em estabelecer um código de práticas para a gestão da segurança. Este esforço inicial evoluiu para a norma BS 7799 (British Standard) em 1995, que foi revisada em 1998 e, posteriormente, adotada pela International Organization for Standardization (ISO) no ano 2000 sob a nomenclatura ISO/IEC 17799.   
+
+A estruturação moderna do padrão começou a tomar forma em 2005, com a publicação da primeira versão oficial da ISO/IEC 27001. Este marco significou a transição de um simples código de práticas para um sistema de gestão auditável e passível de certificação internacional. A norma passou por uma revisão significativa em 2013, que introduziu a Estrutura de Alto Nível (HLS), facilitando a integração com outras normas de gestão como a ISO 9001.   
+
+Ano	Marco Normativo	Descrição e Impacto
+1992	Código de Prática (UK)	Primeira tentativa governamental de padronizar a segurança.
+1995	BS 7799	Estabelecimento da base técnica para a gestão de segurança.
+2000	ISO/IEC 17799	Adoção internacional do código de práticas britânico.
+2005	ISO/IEC 27001:2005	Nascimento oficial do SGSI como norma auditável.
+2013	ISO/IEC 27001:2013	Alinhamento com a Estrutura de Alto Nível (HLS).
+2022	ISO/IEC 27001:2022	Atualização para nuvem, cibersegurança e privacidade.
+A iteração mais recente, publicada em outubro de 2022, representa uma resposta direta ao aumento da digitalização, às ameaças de ransomware e à necessidade de alinhar a segurança com legislações de proteção de dados, como a GDPR europeia e a LGPD brasileira.   
+
+O Contexto da Privacidade de Dados
+A evolução da norma está intrinsecamente ligada à história da privacidade. Desde o conceito jurídico de 1890 sobre o "direito de ser deixado em paz", até o advento da GDPR em 2016, houve uma crescente conscientização sobre o poder de processamento e armazenamento de dados sobre indivíduos. A ISO/IEC 27001:2022 incorpora esses conceitos, permitindo que as empresas utilizem o SGSI não apenas para segurança cibernética, mas também como uma ferramenta de conformidade regulatória para proteger os direitos dos titulares de dados.   
+
+Fundamentos e a Tríade da Segurança da Informação
+O objetivo central de um SGSI é a preservação da confidencialidade, integridade e disponibilidade da informação. Estes três pilares, conhecidos como a tríade CIA (Confidentiality, Integrity, Availability), formam a base sobre a qual todos os controles e processos são edificados.   
+
+Definições dos Pilares de Segurança
+A confidencialidade garante que a informação seja acessível apenas por aqueles devidamente autorizados. No contexto moderno, isso envolve o combate ao vazamento de credenciais e ao acesso não autorizado a bancos de dados sensíveis. A integridade assegura que a informação e seus métodos de processamento sejam exatos e completos, protegendo os dados contra alterações acidentais ou maliciosas durante o armazenamento ou trânsito.   
+
+Por fim, a disponibilidade garante que os usuários autorizados tenham acesso à informação e aos ativos associados sempre que necessário. Falhas neste pilar, frequentemente causadas por problemas de infraestrutura ou ataques de negação de serviço, podem paralisar operações críticas de uma organização.   
+
+Pilar	Definição Técnica	Exemplo de Ameaça Típica
+Confidencialidade	Proteção contra acesso não autorizado.	Phishing para roubo de identidades e senhas.
+Integridade	Manutenção da precisão dos dados.	Injeção de código (SQL Injection) em bancos de dados.
+Disponibilidade	Acesso contínuo aos sistemas e dados.	Ataques de Ransomware que criptografam arquivos.
+Embora esses elementos sejam essenciais, a norma reconhece que eles podem entrar em conflito. Por exemplo, medidas rigorosas de confidencialidade podem, em certos casos, dificultar a disponibilidade imediata da informação. A organização deve, portanto, buscar um equilíbrio ideal baseado em seu apetite ao risco e necessidades operacionais.   
+
+A Estrutura da Norma ISO/IEC 27001:2022
+A norma é dividida em duas partes principais: o corpo principal, que contém as cláusulas de 4 a 10 (requisitos mandatórios para o sistema de gestão), e o Anexo A (controles de referência). Esta estrutura segue o Anexo SL, comum a todas as normas de gestão modernas, o que facilita a implementação de sistemas integrados.   
+
+Cláusulas Mandatórias (4 a 10): A Espinha Dorsal do SGSI
+As cláusulas mandatórias definem o "como gerenciar" a segurança. Elas não tratam de tecnologia específica, mas de processos de gestão, liderança e melhoria contínua.   
+
+Cláusula 4: Contexto da Organização
+A implementação de um SGSI eficaz exige uma compreensão profunda do ambiente em que a empresa opera. Isso inclui a identificação de questões externas (como leis, concorrência e tendências tecnológicas) e internas (como cultura e estrutura organizacional). A versão 2022 trouxe uma nova sub-cláusula (4.2) que exige especificamente a análise de quais requisitos das partes interessadas serão abordados pelo SGSI. Além disso, a definição do escopo (4.3) é crucial para determinar os limites físicos e lógicos da certificação.   
+
+Cláusula 5: Liderança e Comprometimento
+A segurança da informação não pode ser vista como uma tarefa isolada da TI. A alta direção deve demonstrar liderança, estabelecendo a política de segurança da informação e garantindo que os recursos necessários estejam disponíveis. A ausência de suporte da gestão é frequentemente citada como um dos principais motivos para falhas na implementação.   
+
+Cláusula 6: Planejamento e Gestão de Riscos
+O SGSI é um sistema baseado em risco. A organização deve realizar avaliações de risco periódicas para identificar ameaças e vulnerabilidades, decidindo como tratar cada risco: modificar, evitar, compartilhar ou aceitar. A atualização de 2022 introduziu a Cláusula 6.3 (Planejamento de Mudanças), que exige que alterações no SGSI sejam conduzidas de forma planejada para evitar a introdução de novas vulnerabilidades.   
+
+Cláusula 7: Apoio e Recursos
+Esta seção foca nos elementos necessários para sustentar o SGSI, incluindo a competência e conscientização dos funcionários, canais de comunicação interna e externa, e a gestão da informação documentada. A competência dos profissionais envolvidos na gestão é um fator determinante para a resiliência do sistema.   
+
+Cláusula 8: Operação e Controle Operacional
+Refere-se à execução prática do que foi planejado. Inclui o controle de processos, a realização de avaliações de risco de segurança da informação em intervalos planejados e o tratamento efetivo desses riscos.   
+
+Cláusula 9: Avaliação de Desempenho
+A organização deve monitorar, medir e avaliar a eficácia do seu SGSI. Isso envolve a realização de auditorias internas programadas e a análise crítica pela direção para garantir a adequação contínua do sistema.   
+
+Cláusula 10: Melhoria
+Baseada no ciclo PDCA (Plan-Do-Check-Act), esta cláusula foca no tratamento de não conformidades e na implementação de ações corretivas para a melhoria contínua da segurança.   
+
+Cláusula	Nome	Foco Principal
+4	Contexto	Entendimento do ambiente e partes interessadas.
+5	Liderança	Comprometimento da alta direção e políticas.
+6	Planejamento	Avaliação de riscos e objetivos de segurança.
+7	Apoio	Recursos, treinamento e documentação.
+8	Operação	Implementação prática dos controles de risco.
+9	Avaliação	Auditorias internas e análise de desempenho.
+10	Melhoria	Correção de falhas e evolução do sistema.
+O Anexo A e a Revolução dos Controles em 2022
+O Anexo A da ISO/IEC 27001:2022 passou por uma reestruturação profunda em comparação com a versão de 2013. Enquanto a versão anterior contava com 114 controles divididos em 14 domínios, a nova versão consolidou-os em 93 controles agrupados em 4 temas transversais.   
+
+Categorização por Temas
+A nova categorização visa simplificar a gestão e facilitar a atribuição de responsabilidades dentro das organizações modernas.   
+
+Controles Organizacionais (37 controles): Focam em políticas, processos de negócio e governança.
+
+Controles de Pessoas (8 controles): Relacionados à gestão de recursos humanos, treinamento e conscientização.
+
+Controles Físicos (14 controles): Proteção de instalações, equipamentos e perímetros de segurança.
+
+Controles Tecnológicos (34 controles): Medidas técnicas implementadas em sistemas, redes e aplicações.   
+
+Essa redução no número total de controles não significa uma diminuição na segurança, mas sim a fusão de controles redundantes e a introdução de medidas mais alinhadas com as ameaças atuais.   
+
+Atributos dos Controles: Uma Nova Camada de Análise
+Uma das inovações mais poderosas da ISO/IEC 27001:2022 é a introdução de atributos para cada controle. Isso permite que as organizações filtrem e agrupem controles sob diferentes perspectivas, como :   
+
+Tipo de Controle: Preventivo, Detectivo ou Corretivo.
+
+Propriedades de Segurança: Confidencialidade, Integridade ou Disponibilidade.
+
+Conceitos de Cibersegurança: Identificar, Proteger, Detectar, Responder ou Recuperar (alinhado ao framework NIST CSF).
+
+Capacidades Operacionais: Governança, Gestão de Ativos, Proteção da Informação, etc.
+
+Análise Profunda dos 11 Novos Controles de 2022
+A revisão de 2022 introduziu 11 controles inéditos para preencher lacunas críticas identificadas na última década. Estes novos controles refletem a maturidade necessária para lidar com o crime cibernético moderno e a infraestrutura descentralizada.   
+
+5.7 Inteligência de Ameaças (Threat Intelligence)
+Este controle exige que a organização colete e analise informações sobre ameaças à segurança da informação. O objetivo é permitir que a empresa compreenda o cenário de ameaças atual e tome medidas proativas para ajustar suas defesas. A implementação envolve o monitoramento de fontes externas para identificar novos tipos de ataques, vulnerabilidades zero-day e tendências de malware.   
+
+5.23 Segurança da Informação para Uso de Serviços em Nuvem
+Com a migração em massa para a nuvem, a norma agora exige processos formais para a aquisição, uso, gestão e saída de serviços de cloud. Isso inclui a definição de responsabilidades de segurança entre o cliente e o provedor, além de auditorias de conformidade dos serviços contratados.   
+
+5.30 Prontidão das TIC para Continuidade de Negócios
+Diferente da continuidade de negócios geral, este controle foca especificamente na capacidade dos sistemas de Tecnologia da Informação e Comunicação (TIC) de serem recuperados dentro de prazos aceitáveis após uma interrupção. Envolve planejamento de desastres, testes de restauração de backups e redundância de infraestrutura.   
+
+7.4 Monitoramento de Segurança Física
+Reforça a necessidade de vigilância constante em áreas sensíveis, como data centers e salas de servidores. O uso de câmeras, sistemas de detecção de intrusão e registros de acesso biométricos são medidas típicas para atender a este requisito.   
+
+8.9 Gestão de Configuração
+Exige a definição de configurações padrão de segurança (hardening) para hardware, software e redes. A organização deve monitorar essas configurações para evitar a "deriva de configuração", onde alterações não autorizadas tornam o sistema vulnerável ao longo do tempo.   
+
+8.10 Eliminação de Informações
+Em conformidade com legislações de privacidade como a LGPD, este controle determina que os dados devem ser excluídos quando não forem mais necessários. Isso reduz o risco de exposição de dados antigos e economiza custos de armazenamento.   
+
+8.11 Mascaramento de Dados (Data Masking)
+Requer o uso de técnicas de mascaramento, pseudonimização ou anonimização para proteger dados sensíveis, especialmente em ambientes de teste ou desenvolvimento onde o acesso a dados reais de produção deve ser evitado.   
+
+8.12 Prevenção de Vazamento de Dados (DLP)
+A implementação de ferramentas de Data Leakage Prevention (DLP) torna-se mandatória para detectar e impedir a extração não autorizada de informações sensíveis da organização, seja por canais de rede, armazenamento em nuvem ou dispositivos físicos.   
+
+8.16 Atividades de Monitoramento
+Este controle foca no monitoramento contínuo de sistemas, redes e aplicações em busca de comportamentos anômalos. É a base para um Security Operations Center (SOC) eficaz, permitindo a detecção precoce de intrusões.   
+
+8.23 Filtragem Web (Web Filtering)
+Para reduzir a exposição a malwares e sites de phishing, a organização deve gerenciar o acesso a sites externos. Isso impede que funcionários acessem domínios maliciosos conhecidos ou categorias de sites não condizentes com a política da empresa.   
+
+8.28 Codificação Segura (Secure Coding)
+Estabelece que princípios de desenvolvimento seguro devem ser aplicados a todo o ciclo de vida de criação de software. Isso inclui a revisão de código, testes de segurança estáticos e dinâmicos e a formação de desenvolvedores em práticas de segurança cibernética.   
+
+ID	Novo Controle (2022)	Objetivo de Segurança
+5.7	Inteligência de Ameaças	Antecipar ataques com base em dados externos.
+5.23	Segurança na Nuvem	Gestão de riscos em provedores como AWS/Azure.
+5.30	Prontidão de TIC	Recuperação rápida de sistemas após falhas.
+7.4	Monitoramento Físico	Vigilância de áreas críticas contra intrusos.
+8.9	Gestão de Configuração	Manutenção de padrões de segurança nos ativos.
+8.10	Eliminação de Dados	Redução da superfície de ataque via exclusão.
+8.11	Mascaramento de Dados	Proteção de PII em ambientes não produtivos.
+8.12	Prevenção de Vazamento	Impedir a saída não autorizada de dados.
+8.16	Monitoramento de Atividades	Identificação de anomalias em tempo real.
+8.23	Filtragem Web	Controle de navegação para evitar malwares.
+8.28	Codificação Segura	Prevenção de falhas no desenvolvimento de software.
+O Processo de Gestão de Riscos (ISO 27005)
+A eficácia do SGSI depende diretamente da qualidade da gestão de riscos. A norma ISO/IEC 27005:2024 atua como um guia complementar para a implementação dos requisitos de risco da ISO 27001.   
+
+Ciclo de Gerenciamento de Riscos
+O processo é cíclico e deve ser integrado à cultura organizacional. Começa com o estabelecimento do contexto, onde critérios de aceitação de risco são definidos. Segue-se para a identificação de riscos, onde ameaças (como ataques de phishing) e vulnerabilidades (como sistemas desatualizados) são mapeadas em relação aos ativos de informação.   
+
+A análise de risco avalia a probabilidade de ocorrência e o impacto potencial para o negócio. Esta avaliação permite a priorização dos esforços de segurança. O tratamento de risco envolve a seleção de controles para mitigar os riscos que excedem o nível aceitável da organização. Finalmente, o monitoramento e revisão garantem que os controles permaneçam eficazes diante da evolução do cenário de ameaças.   
+
+Declaração de Aplicabilidade (SoA): O Documento Central
+A Declaração de Aplicabilidade (Statement of Applicability - SoA) é, sem dúvida, um dos documentos mais importantes para a certificação ISO 27001. Ela serve como um resumo executivo de quais controles do Anexo A a organização decidiu implementar e quais decidiu excluir.   
+
+Requisitos Mandatórios da SoA
+Para cada um dos 93 controles, a SoA deve conter:
+
+O título do controle.   
+
+Se o controle é aplicável ou não ao negócio.   
+
+Uma justificativa robusta para a inclusão ou exclusão.   
+
+O status atual de implementação (Totalmente implementado, Parcial ou Planejado).   
+
+Referências a evidências ou políticas que sustentam a implementação do controle.   
+
+O auditor utiliza a SoA como um "roteiro" durante a auditoria de certificação para verificar se as defesas da empresa são coerentes com os riscos identificados no relatório de avaliação de riscos.   
+
+Metodologia de Implementação do SGSI
+A implementação bem-sucedida da ISO 27001 não ocorre da noite para o dia. É uma jornada estratégica que pode ser dividida em etapas claras.   
+
+Jornada de 10 Etapas para a Conformidade
+Formação da Equipe: Designar um líder de projeto com autoridade e conhecimento técnico. O suporte da alta gerência deve ser garantido desde o dia zero.   
+
+Definição do Escopo: Identificar quais partes da organização, quais processos e quais dados serão protegidos. Um escopo mal definido é uma das principais causas de falhas em auditorias.   
+
+Mapeamento de Riscos: Realizar uma avaliação formal para identificar ameaças aos ativos de informação.   
+
+Gestão de Riscos e Implementação de Controles: Decidir como tratar os riscos e implementar os controles técnicos e organizacionais necessários.   
+
+Programas de Conscientização: Treinar os funcionários. O "fator humano" é frequentemente o elo mais fraco na segurança.   
+
+Informação Documentada: Criar políticas, procedimentos e registros que sirvam de evidência para a operação do sistema.   
+
+Monitoramento: Estabelecer métricas para medir a eficácia dos controles implementados.   
+
+Auditoria Interna: Realizar um teste rigoroso do sistema por profissionais independentes da área auditada.   
+
+Auditoria de Certificação: Submeter o sistema à avaliação de um organismo certificador independente.   
+
+Melhoria Contínua: Utilizar as saídas das auditorias e análises críticas para evoluir o sistema constantemente.   
+
+Auditoria e Certificação: O Selo de Confiança
+A certificação ISO 27001 é um diferencial competitivo que sinaliza a parceiros e clientes que a organização trata a segurança de dados com seriedade profissional. O processo de certificação oficial ocorre em fases distintas.   
+
+Auditoria de Estágio 1: Revisão de Prontidão
+Foca principalmente na revisão documental. O auditor analisa a política de segurança, a SoA, o processo de gestão de riscos e verifica se a estrutura básica do SGSI está em conformidade com as cláusulas 4 a 10. Se lacunas graves forem encontradas aqui, a organização não deve prosseguir para o estágio seguinte até corrigi-las.   
+
+Auditoria de Estágio 2: Verificação de Eficácia
+É a auditoria "no chão de fábrica". O auditor realiza entrevistas com colaboradores, observa a operação dos controles tecnológicos e físicos, e coleta evidências de que o que está escrito no papel é realmente praticado.   
+
+Tipo de Auditoria	Foco Principal	Periodicidade
+Interna	Identificar falhas e gaps antes da certificação.	Anual (ou conforme plano).
+Estágio 1 (Externa)	Verificação documental e prontidão.	No início da certificação.
+Estágio 2 (Externa)	Testes operacionais e coleta de evidências.	No início da certificação.
+Vigilância	Manutenção e melhoria contínua.	Anual (após certificação).
+Recertificação	Avaliação completa do ciclo de 3 anos.	A cada 3 anos.
+Guia de Estudo e Preparação para Certificações Profissionais
+Para aqueles que buscam se especializar como implementadores (Lead Implementer) ou auditores (Lead Auditor) da ISO 27001, o domínio da norma é essencial.   
+
+Tópicos Críticos para Provas de Certificação (PECB/EXIN)
+Escopo vs. SoA: Compreender que o Escopo define onde o sistema se aplica, enquanto a SoA define quais controles são usados e por que.   
+
+Hierarquia Documental: A relação entre política (diretrizes gerais), procedimentos (como fazer) e registros (evidência de que foi feito).   
+
+Tratamento de Não Conformidades: A diferença entre uma correção imediata e uma ação corretiva que ataca a causa raiz da falha.   
+
+Independência da Auditoria: O requisito de que os auditores internos não devem auditar seu próprio trabalho para garantir a objetividade.   
+
+As provas costumam ser baseadas em cenários práticos, testando a capacidade de tomada de decisão do profissional diante de dilemas de auditoria ou implementação. O uso de simulados e o estudo aprofundado do Anexo A em conjunto com as cláusulas 4 a 10 são fundamentais para o sucesso.   
+
+Conclusão: O Futuro da Segurança da Informação
+A ISO/IEC 27001:2022 não é um destino final, mas um marco em uma jornada de resiliência. À medida que tecnologias como inteligência artificial, computação quântica e IoT (Internet das Coisas) se tornam mais prevalentes, o SGSI deverá continuar evoluindo. O foco em inteligência de ameaças e monitoramento contínuo introduzido na versão mais recente sinaliza uma mudança de uma segurança puramente "perimetral" para uma defesa baseada em detecção ativa e resposta rápida.   
+
+Organizações que abraçam a cultura da ISO 27001 não apenas protegem seus dados, mas constroem uma reputação de confiança e idoneidade no mercado global, garantindo que a informação permaneça como um motor de inovação e não como uma vulnerabilidade crítica.   
+
+
+clavis.com.br
+Norma ISO/IEC 27001: o que é, funções e sua importância - Clavis
+Abre em uma nova janela
+
+dqsglobal.com
+Detecção e prevenção na gestão da segurança da informação - DQS
+Abre em uma nova janela
+
+27001.pt
+ISO 27001 | Portal Informativo
+Abre em uma nova janela
+
+serasaexperian.com.br
+Norma ISO 27001: o que é, funções e como implementar - Serasa Experian
+Abre em uma nova janela
+
+dnv.com.br
+Transição para ISO IEC 27001:2022 - DNV
+Abre em uma nova janela
+
+fortinet.com
+ISO/IEC 27001: Estrutura para o sistema de gerenciamento de segurança da informação
+Abre em uma nova janela
+
+vanzolini.org.br
+Segurança da informação: ISO 27001 Metodologia e boas práticas - Fundação Vanzolini
+Abre em uma nova janela
+
+lgpdsimplificada.com.br
+ISO/IEC 27001:2022 | LGPD Simplificada
+Abre em uma nova janela
+
+cloudsecurityalliance.org
+ISO 27001:2013 vs ISO 27001:2022 - Cloud Security Alliance (CSA)
+Abre em uma nova janela
+
+page.bsigroup.com
+Principais atualizações da versão 2022 da ISO/IEC 27001 - BSI
+Abre em uma nova janela
+
+tuv.com
+Auditoria ISO 27001: Guia completo - TUV Rheinland
+Abre em uma nova janela
+
+sailpoint.com
+Tríade CIA: Confidencialidade, integridade e disponibilidade - SailPoint
+Abre em uma nova janela
+
+l4sec.com.br
+Lançada nova Versão da ISO/IEC 27001 e 27002:2022! Saiba as ...
+Abre em uma nova janela
+
+scrut.io
+ISO 27001:2022 Annex A Controls List - Scrut.io
+Abre em uma nova janela
+
+grupoqualiseg.com
+Sistema de Gestão da Segurançada Informação (SGSI) - Qualiseg
+Abre em uma nova janela
+
+nsf.org
+Sistema de Gestão de Segurança da Informação ISO/IEC 27001 - NSF
+Abre em uma nova janela
+
+estrategiaconcursos.com.br
+Universo Segurança da Informação: NBR ISO/IEC 27001:2022 - Estratégia Concursos
+Abre em uma nova janela
+
+certificacaoiso.com.br
+Implementação da ISO 27001: 05 etapas para certificar sua empresa
+Abre em uma nova janela
+
+a-lign.com
+What's the Difference Between ISO 27001:2022 and ISO 27001:2013? - A-LIGN
+Abre em uma nova janela
+
+blog.softexpert.com
+ISO 27001: Guia completo de implementação em 10 etapas
+Abre em uma nova janela
+
+uqsrbrazil.com
+Quais são os Desafios na Implementação da ISO 27001 - UQSR BRAZIL
+Abre em uma nova janela
+
+sol.sbc.org.br
+Análise dos Desafios para Estabelecer e Manter Sistema de Gestão de Segurança da Informação no Cenário Brasileiro
+Abre em uma nova janela
+
+globalsuitesolutions.com
+Conexão ISO 27005 vs. ISO 27001: Impulsione sua gestão de riscos de segurança da informação - GlobalSuite
+Abre em uma nova janela
+
+cybeready.com
+An In-Depth Guide to the 11 New ISO 27001 Controls | CybeReady
+Abre em uma nova janela
+
+globalsuitesolutions.com
+Como fazer a auditoria interna de um SGSI com base na ISO 27001 - GlobalSuite Solutions
+Abre em uma nova janela
+
+revistaft.com.br
+ANÁLISE DO PROCESSO DE IMPLEMENTAÇÃO DE UM SISTEMA DE GESTÃO DA SEGURANÇA DA INFORMAÇÃO COM BASE NA ISO/IEC 27001
+Abre em uma nova janela
+
+isms.online
+ISO 27001:2022 Annex A Explained & Simplified - ISMS.online
+Abre em uma nova janela
+
+elevateconsult.com
+ISO 27001 Controls Decoded: The Executive's Quick Guide to Annex A - Elevate Consult
+Abre em uma nova janela
+
+isms.online
+ISO 27001:2022- The Statement of Applicability (SoA) - ISMS.online
+Abre em uma nova janela
+
+dataguard.com
+ISO 27001 Controls: Overview of all measures from Annex A - DataGuard
+Abre em uma nova janela
+
+advisera.com
+What are the 11 new security controls in ISO 27001:2022? - Advisera
+Abre em uma nova janela
+
+secureframe.com
+How to Write an ISO 27001 Statement of Applicability: Free Template + Example
+Abre em uma nova janela
+
+drata.com
+ISO 27001: How to Write a Statement of Applicability - Drata
+Abre em uma nova janela
+
+onetrust.com
+What is Statement of Applicability? | Blog - OneTrust
+Abre em uma nova janela
+
+cyberday.ai
+What is Statement of Applicability (SoA) in ISO 27001? - Cyberday.ai
+Abre em uma nova janela
+
+infosectrain.com
+ISO 27001 Lead Auditor Exam Practice Questions and Answers - InfosecTrain
+Abre em uma nova janela
+
+tiexames.com.br
+Como funciona uma auditoria de Certificação ISO/IEC 27001 | Blog ...
+Abre em uma nova janela
+
+abs-qe.com.br
+Serviços da Certificação ISO 27001 | ABS QE
+Abre em uma nova janela
+
+youtube.com
+What's The BEST Way to Pass ISO27001:2022 Lead Auditor Exam in 2025? - YouTube
+Abre em uma nova janela
+
+pecb.com
+Manual do candidato - PECB
+Abre em uma nova janela
+
+reddit.com
+Começando o curso de Auditor Líder PECB ISO 27001 em 4 dias. Me sentindo em pânico, preciso de conselhos! : r/ISO27001 - Reddit
+Abre em uma nova janela
+Abre em uma nova janela
+Abre em uma nova janela
+Abre em uma nova janela
+Abre em uma nova janela
+Abre em uma nova janela
+Abre em uma nova janela
+Abre em uma nova janela
+
+
+Obter apoio da Alta Direção
+• Definir o escopo do SGSI
+• Estabelecer a política de segurança da informação
+• Definir a metodologia de avaliação de risco
+• Realizar a avaliação de risco
+• Elaborar a Declaração de Aplicabilidade
+• Estabelecer o Plano de tratamento de risco
+• Definir como medir a eficácia de seus
+controles e do seu SGSI
+• Implementar todos os controles e procedimentos aplicáveis
+• Implementar programas de treinamento
+e conscientização
+• Realizar todas as operações diárias prescritas pela documentação do seu SGSI
+• Monitorar e medir seu SGSI
+• Realizar auditoria interna
+• Realizar análise crítica pela direção
+• Implementar ações corretiva
